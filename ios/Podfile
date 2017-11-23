@@ -1,0 +1,4 @@
+target 'AvesomeProjectUITests' do
+  use_frameworks!
+  pod 'XCTest-Gherkin/Native'
+end
